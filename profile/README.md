@@ -5,6 +5,7 @@ Semillero de la Universidad Jorge Tadeo Lozano enfocado en la programación comp
 # Redes Sociales
 
 - [Canal de YouTube](https://www.youtube.com/@CPUtadeo)
+- [Instagram](https://www.instagram.com/segfaultutadeo/)
 
 # Actividades
 
